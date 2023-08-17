@@ -1,0 +1,23 @@
+body {
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Russo One', sans-serif;
+    background-color: whitesmoke;
+}
+
+.copy_right_footer {
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    position: fixed;
+    width:100%;
+    bottom:0;
+}
+h2{
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);  
+}
+p
+{
+    font-style: oblique;
+    color: red;
+    font-size: 20px;
+    font-style: bold;
+}
